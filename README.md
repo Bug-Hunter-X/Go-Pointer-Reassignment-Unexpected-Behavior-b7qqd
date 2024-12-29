@@ -1,0 +1,3 @@
+# Go Pointer Reassignment Unexpected Behavior
+
+This repository demonstrates a subtle bug in Go related to how pointers work when reassigned.  Understanding pointer behavior is crucial for writing robust Go code.  This example highlights the consequence of reassigning a pointer to point to a different variable.   Incorrectly managing pointers can lead to unexpected data modifications and hard-to-debug errors.
